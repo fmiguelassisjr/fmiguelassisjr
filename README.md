@@ -9,7 +9,7 @@ As a software engineering student, I'm (almost) always dedicating my time to lea
 <a href= "mailto:francisco.miguel.assis@alumni.usp.br"><img src="https://img.icons8.com/material-outlined/1x/ffffff/new-post.png"/></a>
 </p>
 
-#### Things to be note:
+#### Things to be noted:
 
 - 💬 Let's talk about everything dev (for a newcomer)!
 - 📫 How to reach me: e-mail, Skype (fmiguelassisjr)
