@@ -2,7 +2,7 @@
 
 ### Hi! I'm Miguel! 
 
-As a software engineering student, I'm (almost) always dedicating my time to learning through self-study about development, but also English and literature too, since these are my passions. My website is under development at https://fmiguelassisjr.wixsite.com/about.
+As a software engineering student, I'm (almost) always dedicating my time to learning through self-study about development, but also English and literature too, since these are my passions. My website is under construction at https://fmiguelassisjr.wixsite.com/about.
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/fmiguelassisjr"><img src="https://img.icons8.com/material-outlined/1x/ffffff/linkedin.png"/></a>
