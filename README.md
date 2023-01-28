@@ -1,4 +1,5 @@
 <img align="right" src="https://previews.123rf.com/images/plasticperson/plasticperson2005/plasticperson200520938/147437473-abstract-landscape-on-a-dark-background-cyberspace-grid-hi-tech-network-3d-illustration-vertical-ori.jpg" width="260px" />
+<br>
 
 ### Hi! I'm Miguel! 
 
