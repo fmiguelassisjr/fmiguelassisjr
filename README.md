@@ -1,7 +1,6 @@
-<img align="right" src="https://previews.123rf.com/images/plasticperson/plasticperson2005/plasticperson200520938/147437473-abstract-landscape-on-a-dark-background-cyberspace-grid-hi-tech-network-3d-illustration-vertical-ori.jpg" width="260px" />
-<br>
-
 ### Hi! I'm Miguel! 
+
+<img align="right" src="https://previews.123rf.com/images/plasticperson/plasticperson2005/plasticperson200520938/147437473-abstract-landscape-on-a-dark-background-cyberspace-grid-hi-tech-network-3d-illustration-vertical-ori.jpg" width="260px" />
 
 As a software engineering student, I'm (almost) always dedicating my time to learning through self-study about development, but also English and literature too, since these are my passions. My website is under construction at https://fmiguelassisjr.wixsite.com/about.
 
