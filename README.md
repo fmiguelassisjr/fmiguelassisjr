@@ -11,7 +11,7 @@ As a software engineering student, I'm (almost) always dedicating my time to lea
 #### Stats
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=fmiguelassisjr&show_icons=true&hide=[%22issues%22]&theme=dark)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmiguelassisjr&layout=compact&langs_count=7&theme=maroongold&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000"/>
+<br> <img height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmiguelassisjr&layout=compact&langs_count=7&theme=maroongold&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000"/>
 
 <h3><p align="center">Hit counter</p>
 <p align="center">
