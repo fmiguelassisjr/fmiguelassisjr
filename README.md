@@ -1,6 +1,6 @@
 ### Hi! I'm Miguel! 
 
-Software engineering student, learning through self-study not only about development but also English and literature too, my passions. My Website is under construction at https://fmiguelassisjr.wixsite.com/about.
+Software engineering student, learning through self-study not only about development but also English and literature too, my passions. My Website is under construction <a href="https://fmiguelassisjr.wixsite.com/about">here</a>.
 </p>
 
 #### Notes:
