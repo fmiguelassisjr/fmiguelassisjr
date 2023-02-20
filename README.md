@@ -6,7 +6,7 @@ Software engineering student, learning through self-study not only about develop
 #### Notes:
 
 - 💬 Let's talk about everything dev!
-- 📫 How to reach me: <a href= "https://www.linkedin.com/in/fmiguelassisjr"><img src="https://img.icons8.com/material-outlined/1x/ffffff/linkedin.png"/></a> <a href= "mailto:francisco.miguel.assis@alumni.usp.br"><img src="https://img.icons8.com/material-outlined/1x/ffffff/new-post.png"/></a>
+- 📫 How to reach me: <a href= "https://www.linkedin.com/in/miguelassis2"><img src="https://img.icons8.com/material-outlined/1x/ffffff/linkedin.png"/></a> <a href= "mailto:francisco.miguel.assis@alumni.usp.br"><img src="https://img.icons8.com/material-outlined/1x/ffffff/new-post.png"/></a>
 
 #### Stats
 
